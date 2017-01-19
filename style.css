@@ -1,0 +1,52 @@
+body {
+			
+			color: #767270;
+			padding: 1%;
+			font-size: 14px;
+			font-family:<link href="https://fonts.googleapis.com/css?family=Bungee+Inline" rel="stylesheet">;
+			
+	background-image: 	url(ab.jpg);
+		}
+		
+.sidebar{
+	background-position: right;
+	width: 30%;
+	margin-left: 5%;
+	background-color: #FF69B4;
+
+}
+
+img{
+	width: 40%;
+	height: 40%;
+	border: 5px solid #fe4365;
+}	
+
+.profile , .education , .skills, .interest{
+	padding-left: 15%;
+	
+}
+
+.content{
+	padding-left: 20%;
+}
+
+.heading
+{
+	color: #2E8B57;
+}
+
+/*.name{*/
+	color: #ff6666;
+	font-size: 50px;
+}
+
+.intro{
+
+}
+
+.ty{
+	font color: #ff6666;
+	font-size: 50px;
+
+}
