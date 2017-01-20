@@ -17,9 +17,12 @@ body {
 }
 
 img{
-	width: 40%;
-	height: 40%;
+	width: 50%;
+     height: 30%;
 	border: 5px solid #fe4365;
+	
+	margin-top: 10%;
+	margin-left: 20%;
 }	
 
 .profile , .education , .skills, .interest{
@@ -30,6 +33,7 @@ img{
 
 .content{
 	padding-left: 20%;
+	font-size: 20px;
 }
 
 .heading
@@ -42,12 +46,12 @@ img{
 	font-size: 50px;
 }
 
-.intro{
-
+.nam{
+font-size: 25px;
 }
 
 .ty{
-	font color: #ff6666;
+	
 	font-size: 50px;
 
 }
